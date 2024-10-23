@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBigEgale", "eBigEgale.csproj", "{4CDDF5FF-B1C5-A1C2-8778-3DF701F4FC29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBigEgale.Plugins", "eBigEgale.Plugins.csproj", "{1E684CEF-A67D-D834-FDED-7A62EEABE913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eBigEgale.Editor.Plugins", "eBigEgale.Editor.Plugins.csproj", "{0937062C-F5CB-94BB-C518-C5CEEE8062AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CDDF5FF-B1C5-A1C2-8778-3DF701F4FC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDDF5FF-B1C5-A1C2-8778-3DF701F4FC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDDF5FF-B1C5-A1C2-8778-3DF701F4FC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDDF5FF-B1C5-A1C2-8778-3DF701F4FC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E684CEF-A67D-D834-FDED-7A62EEABE913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E684CEF-A67D-D834-FDED-7A62EEABE913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E684CEF-A67D-D834-FDED-7A62EEABE913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E684CEF-A67D-D834-FDED-7A62EEABE913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0937062C-F5CB-94BB-C518-C5CEEE8062AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0937062C-F5CB-94BB-C518-C5CEEE8062AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0937062C-F5CB-94BB-C518-C5CEEE8062AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0937062C-F5CB-94BB-C518-C5CEEE8062AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
